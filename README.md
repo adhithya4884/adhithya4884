@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**adhithya4884/adhithya4884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nagadapally Sai Aditya
 
-Here are some ideas to get you started:
+### Software Engineer • Full Stack Developer • AI/ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Building scalable applications, exploring Artificial Intelligence, and creating impactful software solutions.
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=adhithya4884&style=for-the-badge)
+
+</div>
