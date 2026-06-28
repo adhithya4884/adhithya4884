@@ -191,4 +191,4 @@ building:
 exploring:
   - Data Engineering Pipelines
 open_to:
-  - SDE Internships 2025
+  - SDE Internships 2026
