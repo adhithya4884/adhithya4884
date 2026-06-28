@@ -3,15 +3,22 @@
 </p>
 
 
-<div align="center">
+<div class="space-y-4 mb-8">
 
-# Nagadapally Sai Aditya
+    <p class="text-2xl md:text-3xl font-semibold text-violet-400">
+        Full Stack Developer
+    </p>
 
-### Software Engineer • Full Stack Developer • AI/ML Enthusiast
+    <p class="text-lg md:text-xl text-gray-300">
+        AI/ML Enthusiast • Computer Science Engineering Student
+    </p>
 
-<p>
-Building scalable applications, exploring Artificial Intelligence, and creating impactful software solutions.
-</p>
+    <p class="text-gray-400 max-w-xl leading-8">
+        I build modern web applications, explore Artificial Intelligence,
+        and create software solutions that solve real-world problems.
+        Passionate about learning, building, and continuously improving as
+        a Software Engineer.
+    </p>
 
 </div>
 
