@@ -16,15 +16,24 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      # 1. Generate the Snake
+      - name: generate-snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
+
+      # 2. Generate the 3D Graph
+      - name: generate-3d-graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 3. Push everything to the output branch
+      - name: push-to-output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
