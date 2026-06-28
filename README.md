@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Data+Science+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Analyst;Software+Engineer;Web+Architect" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-Malla%20Reddy%20University%20'27-9333EA?style=flat-square&logo=read-the-docs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-B.Tech%20CSE-9333EA?style=flat-square&logo=read-the-docs&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-9333EA?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://github.com/adhithya4884"><img src="https://img.shields.io/badge/Portfolio-Live%20Projects-9333EA?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nsaiaditya4884/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nsaiadithya4884@gmail.com"><img src="https://img.shields.io/badge/Email-Inquiry-9333EA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/adhithya4884"><img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -28,14 +28,14 @@
 
 ### 🚀 About Me
 
-I am **Nagadapally Sai Aditya**, a dedicated **Software Engineering student** at **Malla Reddy University** (Class of 2027). I focus on building high-performance applications and exploring the intersection of Artificial Intelligence and scalable software architecture.
+I am a motivated **Computer Science Engineering** student with a robust foundation in **full-stack web development** and **data analysis**. My engineering philosophy centers on building secure, scalable web applications while leveraging analytical methodologies to extract meaningful, actionable insights from complex datasets.
 
-- 💻 **Engineering:** Passionate about clean code, system design, and enterprise-level development.
-- 🤖 **AI/ML Interest:** Exploring Deep Learning, Neural Networks, and Predictive Analytics.
-- 🌐 **Development:** Building full-stack solutions with modern frameworks and cloud integration.
-- 🎯 **Product Mindset:** Aiming to create impactful digital products with a focus on user experience and performance.
+- 💻 **Software Engineering:** Proficient in creating end-to-end applications with secure authentication and efficient database schemas.
+- 📊 **Data Science:** Experienced in performing exploratory data analysis (EDA) and predictive modeling using Python.
+- 🌐 **Full Stack Development:** Specialized in modern JavaScript frameworks (Node.js) and Python-based backends (Django).
+- 🎯 **Product Mindset:** Focused on building responsive, user-centric interfaces that solve real-world problems.
 
-**Open To:** Internship opportunities, Open Source collaboration, and Technical research projects.
+**Open To:** Full-Stack Developer Internships, Data Analysis roles, and Open Source contributions.
 
 ---
 
@@ -43,66 +43,114 @@ I am **Nagadapally Sai Aditya**, a dedicated **Software Engineering student** at
 
 <p align="center">
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
 <p align="center">
   <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
 
 <p align="center">
   <b>Backend & Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb,express" />
 </p>
 
 <p align="center">
-  <b>Cloud & Tooling</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,figma" />
+  <b>Cloud, DevOps & Tooling</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm" />
 </p>
 
 ---
 
-### 🧠 AI / ML Expertise
+### 🧠 Data & AI Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Data Analytics** | Intermediate | Statistical Modeling & Visualization |
-| **Machine Learning** | Learning | Regression, Classification, and Clustering |
-| **Deep Learning** | Learning | Neural Network Architectures |
-| **Automation** | Intermediate | Python-based scripting and workflow automation |
+| **Exploratory Data Analysis** | Advanced | Data cleaning, preprocessing, and traffic insight extraction |
+| **Backend Engineering** | Intermediate | API development with Node.js, Django, and Spring |
+| **Database Management** | Intermediate | Relational schema design and SQL optimization |
+| **Data Visualization** | Intermediate | Transforming datasets into meaningful visual reports |
 
 ---
 
 ### 📂 Featured Projects
 
 <details>
-<summary><b>Project Name (Placeholder)</b></summary>
+<summary><b>🛍️ Local Store E-commerce Platform</b></summary>
 
 ### Project Description
-Detailed description of your primary project will go here.
+A comprehensive full-stack e-commerce application featuring user authentication, product listings, cart functionality, and order management.
 
 | Metric | Specification |
 | :--- | :--- |
-| **Stack** | Tech Used |
-| **Scale** | Performance metrics |
-| **Performance** | Load/Speed metrics |
-| **Security** | Auth/Security protocols |
-| **Impact** | Outcome of the project |
-| **Repository** | [View Project](#) |
+| **Stack** | Node.js, Express, MySQL, HTML/CSS |
+| **Scale** | Multi-vendor product listing capability |
+| **Performance** | Optimized database queries for rapid inventory fetching |
+| **Security** | Secure user authentication and session management |
+| **Impact** | Seamless digital transition for local retail business logic |
+| **Repository** | [Private Repo](#) |
 
-Professional project explanation and key takeaways.
+Implemented RESTful APIs and integrated database systems to ensure high-speed data handling and a responsive UI.
+</details>
+
+<details>
+<summary><b>🔐 Secure User Authentication System</b></summary>
+
+### Project Description
+An enterprise-grade authentication system utilizing role-based access control (RBAC) and JWT-based session security.
+
+| Metric | Specification |
+| :--- | :--- |
+| **Stack** | Node.js, JWT, MongoDB, JavaScript |
+| **Scale** | Role-based permission layering |
+| **Performance** | Low-latency token verification |
+| **Security** | Encrypted credential handling and protected routing |
+| **Impact** | Scalable security module for diverse web applications |
+| **Repository** | [Private Repo](#) |
+
+Focused on the secure handling of sensitive user credentials and protecting application integrity through cryptographic standards.
+</details>
+
+<details>
+<summary><b>💬 Real-Time Chat Application</b></summary>
+
+### Project Description
+An instant communication platform built with WebSockets to enable zero-latency message synchronization.
+
+| Metric | Specification |
+| :--- | :--- |
+| **Stack** | WebSockets, Node.js, CSS |
+| **Scale** | Simultaneous multi-user interaction |
+| **Performance** | Real-time state synchronization |
+| **Security** | Socket-level connection validation |
+| **Impact** | Production-ready real-time communication interface |
+| **Repository** | [Private Repo](#) |
+
+Engineered for high responsiveness and consistent message delivery across various client environments.
 </details>
 
 ---
 
 ### 💼 Experience
 
-**Position Title** | Company Name  
-*Date Range*  
-- Professional description of responsibilities.
-- Key achievements and technical contributions.
-- **Skills:** Skill 1, Skill 2, Skill 3.
+**Full-Stack Development Intern** | Prodigy Infotech  
+*Ongoing*  
+- Developing end-to-end web applications with integrated frontend and backend logic.
+- Implementing CRUD operations, secure authentication, and API-based workflows.
+- **Skills:** Node.js, React, Database Integration.
+
+**Data Analysis Intern** | Sysslan IT Solutions  
+*Ongoing*  
+- Performing data cleaning and preprocessing for complex transit datasets.
+- Extracting insights regarding route duration and traffic patterns using Python.
+- **Skills:** Python, Pandas, EDA, Statistical Analysis.
+
+**Frontend Development Intern** | Saiket Systems  
+*Completed*  
+- Engineered responsive webpages with a focus on UI layouts and DOM manipulation.
+- Implemented client-side logic to enhance user interaction and site speed.
+- **Skills:** HTML5, CSS3, JavaScript.
 
 ---
 
@@ -111,20 +159,18 @@ Professional project explanation and key takeaways.
 <p align="center">
 | Recognition | Details |
 | :--- | :--- |
-| **Academic Merit** | Consistent performance at Malla Reddy University |
-| **Hackathon Participant** | Active participation in university-level coding challenges |
-| **Technical Certification** | Recognition in Cloud and AI fundamentals |
+| **Academic Performance** | Achieved 8.0 CGPA at Malla Reddy University |
+| **High School Honors** | Achieved 9.5 CGPA (SSC) and 90% (Intermediate) |
+| **Analytical Simulation** | Completed Deloitte Data Analytics Job Simulation |
 </p>
 
 ---
 
 ### 📜 Certifications
 
-#### **Cloud & Infrastructure**
-- <img src="https://img.shields.io/badge/Certification-Placeholder-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-
-#### **Software Engineering**
-- <img src="https://img.shields.io/badge/Certification-Placeholder-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+#### **Professional Certifications**
+- <img src="https://img.shields.io/badge/Google-Analytics%20Certification-4285F4?style=flat-square&logo=google&logoColor=white" />
+- <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-0021FF?style=flat-square&logo=deloitte&logoColor=white" />
 
 ---
 
@@ -134,7 +180,6 @@ Professional project explanation and key takeaways.
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
@@ -169,12 +214,11 @@ Professional project explanation and key takeaways.
 
 ```yaml
 learning:
-  - Advanced Data Structures & Algorithms
-  - Cloud-Native Architecture (AWS)
+  - Spring Framework Deep Dive
+  - Advanced Django Rest Framework
 building:
-  - Scalable Full-Stack Portfolio
+  - Scalable Microservices Architecture
 exploring:
-  - Machine Learning in Real-time Systems
+  - Data Engineering Pipelines
 open_to:
-  - Summer Internships 2025
-  - Collaborative Research
+  - SDE Internships 2025
